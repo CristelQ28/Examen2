@@ -1,7 +1,7 @@
+
 package entidades;
 
 public class Vehiculo {
-    
     private String placa;
     private String tipo;
 
@@ -16,14 +16,5 @@ public class Vehiculo {
 
     public String getTipo() {
         return tipo;
-        
-        
-        
     }
-    
-    
-    
 }
-
-
-
